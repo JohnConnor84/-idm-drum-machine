@@ -1,0 +1,13 @@
+language=de
+contrast=82
+green_tone=64
+brightness=78
+transition=crt
+transition_time_ms=180
+clock_source=auto
+sample_rate=48000
+audio_buffer_ms=32
+voices=16
+samples_per_voice=32
+selected_voice=1
+selected_sample=1
